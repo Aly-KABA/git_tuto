@@ -7,7 +7,10 @@ git remote add origin SSH_REPO
 '''
 
 
+## Rédiger un commit
 
-'''
-merfcfghgkhfjgjjbngbjthtjnfghthrbhfgrhrbhrghrrghrhrhr
-'''
+```
+Titre du commit
+
+Description de notre commit avec des informations sur l'évolution du projet
+```
